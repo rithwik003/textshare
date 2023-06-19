@@ -4,7 +4,7 @@ TextShare is a simple text-sharing application that allows users to collaborate 
 
 ## Demo
 
-You can try out TextShare by visiting the live demo hosted on Glitch: [TextShare Demo]([https://textshare.glitch.me/])
+You can try out TextShare by visiting the live demo hosted on Glitch: [TextShare Demo](https://textshare.glitch.me/)
 
 ## Features
 
